@@ -1,0 +1,212 @@
+Workouts
+4/05/2024
+Leg day
+Squats In kg
+Warm up - 15 * 10
+15 * 30
+10 * 40
+15 * 40
+15 * 50
+leg press In pounds
+Warm up - 15 * 90
+15 * 270
+12 * 340
+9 * 340
+leg extension In kg
+No warm up
+15 * 50
+12 * 64
+15 * 64
+Hamstring curls In kg
+No warm up
+15 * 50
+12 * 71
+10 * 71
+Calf raises In kg
+Warm up - 15 * 10
+15 * 20
+15 * 30
+Tricep Pushdown In kg
+No warm up
+15 * 50
+12 * 64
+15 * 71
+
+06/05/2024
+Arm day
+Preacher curls In kg
+Warm up - 15 * 7.5
+15 * 10
+8 * 12.5
+7 * 12.5
+Bicep curls In Pounds
+Warm up - 15 * 15
+15 * 20
+7 * 25
+6 * 25
+12 * 25
+Hammer Curls In Pounds
+12 * 20
+10 * 20
+8 * 20
+Tricep push downs In kg
+Warm up - 20 * 30
+15 * 40
+15 * 45
+Overhead triceps In pounds
+Warm up - 20 * 25
+15 * 30
+9 * 40
+10 * 40
+
+07/05/2024
+Chest Day
+Incline bench press In kg
+Warm up - 20 * 10
+12 * 35
+12 * 30
+12 * 30
+Bench press in Kg
+Warm up - 20 * 10
+15 * 30
+10 * 35
+8 * 35
+Chest fly In Kg
+Warm up - 20 * 35
+8 * 50
+12 * 45
+11 * 45
+Lower chest fly In Kg
+Warm up - 20 * 30
+20 * 40
+20 * 40
+
+08/05/2024
+Back Day
+Barbell rows In kg
+Warm up - 20 * 10
+15 * 25
+12 * 35
+15 * 35
+Lat pull downs In kg
+Warm up - 15 * 35
+15 * 40
+15 * 45
+15 * 45
+Cable rows In kg
+Warm up - 20 * 35
+15 * 40
+12 * 45
+12 * 45
+Shrugs In Pounds
+20 * 50
+10 * 60
+
+09/05/2024
+Shoulders day
+Shoulder press In Pounds
+Warm up - 20 * 20
+15 * 30
+12 * 30
+15 * 35
+Lateral raises In Pounds
+Warm up - 15 * 15
+15 * 20
+15 * 20
+Front raises In Pounds
+Warm up - 15 * 15
+15 * 20
+15 * 20
+15 * 20
+
+10/05/2024
+Leg day
+Squats In kg
+Warm up - 15 * 20
+15 * 40
+15 * 55
+15 * 65
+15 * 75
+Leg Press In Pounds
+Warm up - 15 * 90
+15 * 270
+15 * 340
+15 * 420
+Leg Extension In Kg
+Warm up - 15 * 43
+15 * 57
+15 * 71
+15 * 71
+Hamstring curls In Kg
+Warm up - 15 * 43
+15 * 57
+12 * 64
+12 * 64
+
+13/05/2024
+Arm Day
+Skull Crushers In kg
+Warm up - 15 * 15
+15 * 20
+10 * 25
+12 * 25
+Triceps Push Downs In kg
+Warm up - 15 * 30
+15 * 35
+12 * 40
+11 * 40
+Overhead triceps In kg
+Warm up - 15 * 15
+12 * 25
+9 * 25
+Preacher Curls In kg
+Warm up - 15 * 7.5
+15 * 10
+8 * 12.5
+8 * 12.5
+Bicep curls In Pounds
+Warm up - 15 * 15
+15 * 17.5
+10 * 20
+Hammer Curls In kg
+Warm up - 15 * 12.5
+12 * 15
+10 * 15
+
+14/05/2024
+Chest Day
+Incline bench press In kg
+Warm up - 20 * 20
+15 * 30
+12 * 35
+10 * 35
+Bench Press In kg
+Warm up - 20 * 20
+15 * 30
+11 * 30
+Lower chest fly In kg
+Warm up - 20 * 30
+13 * 50
+20 * 40
+Chest fly In kg
+Warm up - 15 * 35
+13 * 40
+12 * 40
+10 * 40
+
+16/06/2024
+Back Day
+Barbell rows In kg
+Warm up - 20 * 20
+15 * 30
+15 * 30
+12 * 35
+Lat pull downs In kg
+Warm up - 15 * 35
+15 * 40
+11 * 45
+8 * 45
+Cable rows In kg
+Warm up - 20 * 35
+15 * 40
+12 * 45
