@@ -1,7 +1,6 @@
 # ==============importing libraries==================
 import numpy as np
 import matplotlib.pyplot as plt 
-import numpy as np
 from datetime import datetime
 import pandas as pd
 
